@@ -5,4 +5,4 @@ name = input("Enter your name: ")
 print("Hello", name)
 print("Welcome to Python Programming")
 
-print=2000=3000=5000
+print=2000+3000+1000=6000
